@@ -2,4 +2,4 @@
 Performance-predict surge como una herramienta open-source para el monitoreo de servidores, con la intención de entregar información relevante para entender y conocer el estado de un servidor y con la capacidad de predecir el funcionamiento futuro del mismo.
 
 
-[prueba-adjunto](https://github.com/pab-1984/performance-predict/blob/main/Ejercicios_periferia.pdf)
+[prueba-adjunto](Ejercicios_periferia.pdf)
